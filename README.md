@@ -1,6 +1,13 @@
-# React + TypeScript + Vite
+# Vite + PNPM - React + TypeScript + SWC 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+extension project.
+use pnpm
+
+`pnpm install` <br/>
+`pnpm run dev`
+
+---
+### Vite Template BS - 
 
 Currently, two official plugins are available:
 
